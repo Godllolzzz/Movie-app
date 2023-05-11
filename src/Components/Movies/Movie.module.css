@@ -1,0 +1,39 @@
+.movie {
+  margin: 2rem 3rem 2rem 3rem;
+  padding: 1rem;
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px #842b06;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+.movie h2 {
+  font-size: 2rem;
+  color: #842b06;
+}
+.innerDiv{
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+.movie h3 {
+  color: #ec7519;
+  margin: 0;
+  font-size: 1rem;
+}
+.button {
+  margin-top: 0.5rem;
+  border-radius: 7px;
+  height: 2.4rem;
+  width: 6rem;
+  cursor: pointer;
+  font-size: 1rem;
+  background-color: #842b06;
+  color: white;
+}
+img {
+  border: #561d05;
+  border-radius: 7px;
+}
+.button:hover {
+  background-color: #561d05;
+}

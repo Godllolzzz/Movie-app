@@ -1,0 +1,26 @@
+.heading {
+  color: #ec7519;
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+
+.button {
+  margin-top: 0.5rem;
+  border-radius: 7px;
+  height: 2.4rem;
+  width: 6rem;
+  cursor: pointer;
+  font-size: 1rem;
+  background-color: #842b06;
+  color: white;
+}
+
+.button:hover {
+  background-color: #561d05;
+}
+
+.content {
+  color: #561d05;
+  font-size: large;
+  font-style: oblique;
+}

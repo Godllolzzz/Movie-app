@@ -1,0 +1,53 @@
+.movie {
+  margin: 2rem 3rem 2rem 3rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px #842b06;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+.heading {
+  color: #ec7519;
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+.movie h2 {
+  font-size: 2rem;
+  color: #842b06;
+}
+
+.movie h3 {
+  color: #ec7519;
+  margin: 0;
+  font-size: 1rem;
+}
+.button {
+  margin-top: 0.5rem;
+  border-radius: 7px;
+  height: 2.4rem;
+  width: 6rem;
+  cursor: pointer;
+  font-size: 1rem;
+  background-color: #842b06;
+  color: white;
+}
+.summaryHeading {
+  margin-top: 2rem;
+  font-size: larger;
+  font-weight: bold;
+  color: #842b06;
+}
+.summary {
+  color: #842b06;
+  padding: 0 1rem 1rem 1rem;
+  font-style: italic;
+}
+
+.button:hover {
+  background-color: #561d05;
+}
+img {
+  border: #561d05;
+  border-radius: 7px;
+}

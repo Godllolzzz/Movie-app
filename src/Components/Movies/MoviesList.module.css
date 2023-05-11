@@ -1,0 +1,26 @@
+.movies-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+}
+.heading {
+  color: #ec7519;
+  font-size: 3.5rem;
+  text-align: center;
+  font-weight: bolder;
+}
+@media only screen and (max-width: 1000px) and (min-width: 470px) {
+  .movies-list {
+    grid-template-columns: auto auto;
+  }
+  
+}
+@media only screen and (max-width: 700px) and (min-width: 470px) {
+  .movies-list {
+    grid-template-columns: auto;
+  }
+  
+}

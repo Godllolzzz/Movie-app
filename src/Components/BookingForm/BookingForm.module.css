@@ -1,0 +1,50 @@
+.button {
+  margin-top: 0.5rem;
+  border-radius: 7px;
+  height: 2.4rem;
+  width: 9rem;
+  cursor: pointer;
+  font-size: 1rem;
+  background-color: #842b06;
+  color: white;
+}
+.buttondisabled {
+  margin-top: 0.5rem;
+  border-radius: 7px;
+  height: 2.4rem;
+  width: 9rem;
+  cursor: not-allowed;
+  font-size: 1rem;
+  background-color: #e6c1b1;
+  color: white;
+}
+.button:hover {
+  background-color: #561d05;
+}
+.section {
+  width: auto;
+  margin: 1rem;
+}
+.section label {
+  margin: 1rem;
+  font-size: larger;
+  color: #842b06;
+}
+.section input {
+  height: 1.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #842b06;
+}
+
+.heading {
+  color: #ec7519;
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+.disabled {
+  color: red;
+  font-style: italic;
+}
+
